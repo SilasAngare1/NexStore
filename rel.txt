@@ -1,0 +1,1 @@
+fazer a release da maneira correta no git
